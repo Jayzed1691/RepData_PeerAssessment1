@@ -18,7 +18,7 @@ library(ggplot2)
 library(scales)
 ```
 
-After loading the required packages:  
+After loading the required packages:   
 
 - data.table  
 - dplyr  
